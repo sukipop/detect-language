@@ -2,7 +2,7 @@ import os
 import sys
 import joblib
 
-model_name = "model.joblib"
+model_name = "model/model.joblib"
 input_file = "input.txt"
 output_dir = "output"
 
